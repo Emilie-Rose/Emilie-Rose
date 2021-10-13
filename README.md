@@ -11,5 +11,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilie-rose&show_icons=true&locale=en&layout=compact" alt="emilie-rose"/></p>
 
-<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=emilie-rose&them=radical&hide_border=faux&date_format=%5BY%20%5DM%20j" alt="emilie-rose" /></p>
+<p><img align="center"  src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Emilie-Rose&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)" alt="emilie-rose" /></p>
 
