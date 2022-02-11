@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour, je m'appelle Emilie</h1>
 <h3 align="center">Développeuse Web Junior à Paris</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emilie-rose&label=Profile%20views&color=0e75b6&style=flat" alt="emilie-rose" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=emilie-rose&label=Profile%20views&color=0e75b6&style=flat" alt="emilie-rose" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
