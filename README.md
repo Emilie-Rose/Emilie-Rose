@@ -13,4 +13,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilie-rose&show_icons=true&locale=en&layout=compact" alt="emilie-rose" /></p>
 
-***  Générer grâce à un programme coder par https://rahuldkjain.github.io/ (site : https://rahuldkjain.github.io/gh-profile-readme-generator/) ***
+<!-- Générer grâce à un programme coder par https://rahuldkjain.github.io/ (site : https://rahuldkjain.github.io/gh-profile-readme-generator/) -->
