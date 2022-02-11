@@ -13,6 +13,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilie-rose&show_icons=true&locale=en&layout=compact" alt="emilie-rose" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Emilie-Rose&theme=radical&date_format=j%20M%5B%20Y%5D" alt="emilie-rose" /></p>
+<p><img align="center"  src="![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Emilie-Rose&theme=radical&date_format=j%20M%5B%20Y%5D)]" alt="emilie-rose" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilie-rose" alt="emilie-rose" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilie-rose&show_icons=true&locale=en&layout=compact" alt="emilie-rose" /></p><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilie-rose&show_icons=true&locale=en&layout=compact" alt="emilie-rose" /></p>
