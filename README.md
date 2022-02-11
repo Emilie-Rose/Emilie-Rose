@@ -13,6 +13,12 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilie-rose&show_icons=true&locale=en&layout=compact" alt="emilie-rose" /></p>
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilie-rose" alt="emilie-rose" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilie-rose&show_icons=true&locale=en&layout=compact" alt="emilie-rose" /></p><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilie-rose&show_icons=true&locale=en&layout=compact" alt="emilie-rose" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilie-rose&show_icons=true&locale=en&layout=compact" alt="emilie-rose" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilie-rose&show_icons=true&locale=en&layout=compact" alt="emilie-rose" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilie-rose&show_icons=true&locale=en&layout=compact" alt="emilie-rose" /></p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilie-rose)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/ ?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io )](https:// github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/ ?username=emilie-rose&hide=javascript,html )](https://github.com/anuraghazra/github- readme-stats)
