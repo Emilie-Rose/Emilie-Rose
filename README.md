@@ -13,4 +13,10 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilie-rose&show_icons=true&locale=en&layout=compact" alt="emilie-rose" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/ ?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io )](https:// github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/ ?username=anuraghazra&hide=javascript,html )](https://github.com/anuraghazra/github- readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/ ?username=anuraghazra&langs_count=8 )](https://github.com/anuraghazra/github-readme- Statistiques)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/ ?username=anuraghazra&layout=compact )](https://github.com/anuraghazra/github-readme- Statistiques)
+
 <!-- Générer grâce à un programme coder par https://rahuldkjain.github.io/ (site : https://rahuldkjain.github.io/gh-profile-readme-generator/) -->
